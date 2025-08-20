@@ -18,6 +18,10 @@ Your desktop shortcut should look something like this:
 
 <img width="171" height="154" alt="image" src="https://github.com/user-attachments/assets/92d13814-7e60-42f8-95e0-19ff0ad82e3a" />
 
-Double clicking on the desktop shortcut, the Digital software should open. If it didn't open or the cmd screen opens briefly, I would suggest double checking your location. 
+Double clicking on the desktop shortcut, the Digital software should open. If it didn't open or the cmd screen opens briefly, I would suggest double checking your location. Another thing to check, is if the shortcut itself is set to run using "Git for windows"
+
+<img width="362" height="179" alt="image" src="https://github.com/user-attachments/assets/5ebd3dc0-ff85-44b0-b48e-dddb92954406" />
+If it doesn't say this, it won't open using Git for Windows.
+
 
 If you need any help please dont hesitate to ask for help!
