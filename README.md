@@ -8,4 +8,5 @@ This script will allow you to easily run the Digital software without having to 
 
 3. You can download the script itself or copy and paste it into your own IDE/text editor, keeping it in your downloads is alright, but I personally moved mine to my documents directory. You'll have to edit yourself in that script where your **DIGITAL** jar file is, (this will be inside the digital folder that you unzipped from the canvas download). If you're unsure of the location, you can view the properties of the script and copy and paste it there.
 
-4. Right clicking on your desktop, hover over "new", then "shortcuts." When prompted for a location for the shortcut, copy the location of the .sh file, making sure to include the file itself: <img width="615" height="452" alt="Screenshot 2025-08-19 220112" src="https://github.com/user-attachments/assets/a1d43d86-82ee-40ff-8c3e-125ab667a74b" />
+4. Right clicking on your desktop, hover over "new", then "shortcuts." When prompted for a location for the shortcut, copy the location of the .sh file, making sure to include the file itself:
+<img width="615" height="452" alt="Screenshot 2025-08-19 220112" src="https://github.com/user-attachments/assets/a1d43d86-82ee-40ff-8c3e-125ab667a74b" />
