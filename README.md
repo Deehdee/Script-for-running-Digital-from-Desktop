@@ -1,5 +1,5 @@
 # Script-for-running-Digital-from-Desktop
-This script will allow you to easily run the Digital software without having to interact with the CLI. 
+This script will allow you to easily run the Digital software without having to interact with the CLI each time you want to run the software. 
 
 ## How to setup (**For Windows**)
 1. You'll need to follow the initial instructions that were provided in the canvas module, "Labs Simulation Software Installation Instructions" where you'll download Digital and java.
