@@ -15,6 +15,7 @@ This script will allow you to easily run the Digital software without having to 
 <img width="615" height="452" alt="Screenshot 2025-08-19 220112" src="https://github.com/user-attachments/assets/a1d43d86-82ee-40ff-8c3e-125ab667a74b" />
 
 Your desktop shortcut should look something like this:
+
 <img width="171" height="154" alt="image" src="https://github.com/user-attachments/assets/92d13814-7e60-42f8-95e0-19ff0ad82e3a" />
 
 Double clicking on the desktop shortcut, the Digital software should open. If it didn't open or the cmd screen opens briefly, I would suggest double checking your location. 
